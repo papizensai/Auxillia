@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">auxillia</string>
+    <string name="email">Email:</string>
+    <string name="logoutBttn">Logout</string>
+    <string name="loginBttn">Login</string>
+    <string name="registerBttn">New user?</string>
 </resources>
