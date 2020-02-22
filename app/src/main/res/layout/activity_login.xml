@@ -29,7 +29,7 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <EditText
-        android:id="@+id/editText"
+        android:id="@+id/loginEmail"
         android:layout_width="301dp"
         android:layout_height="52dp"
         android:ems="10"
